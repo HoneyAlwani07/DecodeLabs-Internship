@@ -5,7 +5,7 @@ Java desktop applications built during my internship at DecodeLabs (Summer 2026)
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Number Guessing Game](./Project-1-NumberGuessingGame/) | Swing-based guessing game with scoring system, progress tracking, and dark-themed UI |
-| 2 | Project 2 | Coming soon |
+| 2 | [Student Grade Calculator](./Project-2-StudentGradeCalculator/) | Console app that calculates total marks, average percentage, and grade with Pass/Fail indicator |
 | 3 | Project 3 | Coming soon |
 | 4 | Project 4 | Coming soon |
 # About
