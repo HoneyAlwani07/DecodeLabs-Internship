@@ -11,8 +11,8 @@ A console-based Java application that simulates an ATM system using Object-Orien
 
 # Test Accounts
 | Account Holder | Account No. | PIN | Initial Balance |
-
-| Arjun Sharma	| 1001	| 1234	| Rs. 50,000.00 |
+|----------------|-------------|-----|-----------------|
+| Arjun Sharma   | 1001	       | 1234| Rs. 50,000.00   |
 
 | Priya Gupta	 | 1002| 	5678| 	Rs. 25,000.00 |
 
