@@ -10,11 +10,8 @@ A console-based Java application that simulates an ATM system using Object-Orien
 - Tech: Java (Core), OOP (Classes, Encapsulation), Scanner I/O, Loops, Conditionals
 
 # Test Accounts
-Account Holder
-Account No.
-PIN
-Initial Balance
-Arjun Sharma	1001	1234	Rs. 50,000.00
+| Account Holder | Account No. | PIN | Initial Balance |
+| Arjun Sharma	| 1001	| 1234	| Rs. 50,000.00 |
 Priya Gupta	1002	5678	Rs. 25,000.00
 Rahul Verma	1003	9012	Rs. 1,00,000.00
 
